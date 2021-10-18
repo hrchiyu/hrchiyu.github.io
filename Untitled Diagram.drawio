@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T09:39:53.188Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="WWTvD-NUsYdQGUmX0EpT" version="14.8.0" type="github"><diagram id="OSN7Fb9BYKplV7MyUneg" name="Page-1">jZPfa4MwEMf/mnscqKnVPKqzDsYGow/bnkbQmwqJkTSddn/9khprpRT2opfPfS/J/QiQTIyFYn3zIivkEHjVCOQRgsD3SGx+lpwmEm6iCdSqrZxoAfv2F+dIR49thYeVUEvJdduvYSm7Dku9YkwpOaxl35KvT+1ZjTdgXzJ+S9/bSjcTjYNo4U/Y1s18sr+lk0ewWewyOTSsksMVIjmQTEmpJ0uMGXJbvLkuU9zujvdyMYWd/k/AZ/0hio6KGuvXBJ+/irx4e3C7/DB+dAlDHkKSQ+JBHkFMIaGWxBmkKeQUqCGBdVmNbw3qQby1RkrOmsh+6c4lrU9zJZU8dhXay3hA0qFpNe57VlrvYGbHsEYLbla+Md21UGkc7+brX6poxg+lQK1ORuICSLiZQtzkRa4Pw9JGf+5Nc9XCrWPMTU592XkprjFcfefl0sez7+o1kPwP</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-18T09:42:27.784Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="40wPZFDDljtZxl7nMVSu" version="14.8.0" type="github">
+  <diagram id="OSN7Fb9BYKplV7MyUneg" name="Page-1">
+    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YgXmGn9mgegNAeK_GEGQ-1" value="宠物医院管理系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ig2JOxSKs3b6VhEE4bXi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="YgXmGn9mgegNAeK_GEGQ-1" target="YgXmGn9mgegNAeK_GEGQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ig2JOxSKs3b6VhEE4bXi-2" value="登录、注册模块" style="rounded=0;whiteSpace=wrap;html=1;glass=0;horizontal=1;verticalAlign=middle;textDirection=rtl;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ig2JOxSKs3b6VhEE4bXi-3" value="管理员模块" style="rounded=0;whiteSpace=wrap;html=1;glass=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ig2JOxSKs3b6VhEE4bXi-4" value="医护人员模块" style="rounded=0;whiteSpace=wrap;html=1;glass=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ig2JOxSKs3b6VhEE4bXi-5" value="客户模块" style="rounded=0;whiteSpace=wrap;html=1;glass=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ig2JOxSKs3b6VhEE4bXi-6" value="宠物管理模块" style="rounded=0;whiteSpace=wrap;html=1;glass=0;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
